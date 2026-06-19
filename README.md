@@ -112,7 +112,9 @@ Focused on minimizing friction during product browsing and purchasing.
 ## 📸 Screenshots
 
 Home Page
+
 Product Detail Pages
+
 Testimonials & Footer
 
 
